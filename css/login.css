@@ -1,0 +1,41 @@
+html, body {
+    height: 100%;
+}
+ 
+body {
+    font-family: Times New Roman;
+    text-align: center;
+    background-image: url("../img/blind3-wallpaper.jpeg");
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+form {
+    margin-right: 400px;
+    margin-left: 400px;
+    font-color: white;
+    padding: 40px;
+    background-color: dimgrey;
+    background-position: center;
+    opacity: 0.7;
+}
+
+input {
+    border-radius: 10%;
+}
+
+label {
+    font-weight: bold;
+    font-size: larger;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 3em;
+    font-variant: small-caps;
+    margin-top: 200px;
+}
